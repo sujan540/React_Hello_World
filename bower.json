@@ -1,0 +1,21 @@
+{
+  "name": "React_Hello_World",
+  "description": "React Hello World",
+  "main": "",
+  "authors": [
+    "Sujan Maharjan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "react": "^15.1.0"
+  }
+}
